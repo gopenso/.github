@@ -1,10 +1,10 @@
-[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-project-bar.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-project-bar.png)](https://sk5s.com/)
 
 這是 sk5s project 下的 gopenso 計畫，希望可以為 opensource 的工具盡一份力。
 
-[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.com/)
 
-[sk5s project github](https://git.io/sk5s-github)
+[sk5s project Github](https://git.io/sk5s-github)
 <!-- 
 ```
      _    ____                        _           _   
